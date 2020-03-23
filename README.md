@@ -9,7 +9,10 @@ This script requires NodeJS. I recommend [installing node JS with nvm](https://g
 
 __Example:__
 
-Input: `node generatePictureTag.js https://images.ctfassets.net/usf1vwtuqyxm/38rqUqYdGjL9mHJ7feADdh/b2dcc93338118fe214ef1c28ce1cbea8/shadows_layered.png`
+Input: 
+```
+node generatePictureTag.js https://images.ctfassets.net/usf1vwtuqyxm/38rqUqYdGjL9mHJ7feADdh/b2dcc93338118fe214ef1c28ce1cbea8/shadows_layered.png
+```
 
 Output:
 ```
